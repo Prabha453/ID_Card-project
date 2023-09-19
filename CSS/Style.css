@@ -1,0 +1,12 @@
+body{
+    box-sizing: border-box;
+    background-color: white;
+}
+input
+{
+width: 100%;
+}
+.create a:hover 
+{
+box-shadow: 1px 1px 7px 1px white;
+}
